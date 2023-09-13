@@ -1,0 +1,32 @@
+.select-item{
+  position: relative;
+}
+.select-item .title{
+  color: white;
+  display: flex;
+  justify-content: space-around;
+  font-size: 18px;
+  border-bottom: 2px solid red;
+}
+
+.item{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 12px;
+  color: red;
+}
+
+.select-item .total-section{
+  border-top: 2px solid whitesmoke;
+  color: red;
+  margin: 0 15px;
+  position: absolute;
+  top: 800px;
+  width: 90%;
+  display: flex;
+  justify-content: space-around;
+}
+.select-item .total-section p{
+  font-size: 20px;
+}

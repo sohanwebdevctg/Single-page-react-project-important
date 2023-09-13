@@ -1,0 +1,26 @@
+nav{
+  padding: 20px 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: burlywood;
+  margin-bottom: 30px;
+}
+
+
+nav h2{
+  margin: 0px;
+}
+nav ul{
+  list-style-type: none;
+  margin: 0px;
+}
+nav ul li{
+  display: inline-block;
+}
+nav ul li a{
+  text-decoration: none;
+  display: inline-block;
+  padding: 0px 15px;
+  color: black;
+}

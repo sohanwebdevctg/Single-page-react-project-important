@@ -1,0 +1,72 @@
+[
+  {
+    "id": "64f8209d4a4f05a3824507d2",
+    "blogCoverImg": "https://images.unsplash.com/photo-1571171637578-41bc2dd41cd2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Y29tcHV0ZXIlMjBwcm9ncmFtbWluZ3xlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+    "blogImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Circle-icons-computer.svg/2048px-Circle-icons-computer.svg.png",
+    "blogName": "COMPUTER",
+    "date": "Jan 01(13 Days age)",
+    "readTime": 11,
+    "blogTitle": "It is a machine that can be programmed to carry out sequences of arithmetic or logical operations",
+    "tag": "#computer #laptop"
+  },
+  {
+    "id": "64f8209d6337e470f553f6e5",
+    "blogCoverImg": "https://res.cloudinary.com/practicaldev/image/fetch/s--V0ekZaVJ--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://thepracticaldev.s3.amazonaws.com/i/h68x0up43hmknl5tjcww.jpg",
+    "blogImg": "https://i.pinimg.com/originals/93/d3/e3/93d3e31639a4d07613de9dccdc8bd5e8.png",
+    "blogName": "DEVELOPER",
+    "date": "Feb 02(3 Days ago)",
+    "readTime": 34,
+    "blogTitle": "Discover the latest app development tools, platform updates, training, and documentation for developers across every Android device",
+    "tag": "#font-end #back-end"
+  },
+  {
+    "id": "64f8209df0afe78cc6f6846e",
+    "blogCoverImg": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt0bc8cd0152c90931/61eb1a94effa361425f80d9b/sourcecode-KhotcharakSiriwong-Alamy.jpg?quality=80&format=jpg&width=690",
+    "blogImg": "https://cdn.imgbin.com/18/3/23/imgbin-computer-programming-web-development-computer-icons-source-code-computer-software-coding-multicolored-streaming-template-HgFbSaevrAeHVV5y4W7URiMwN.jpg",
+    "blogName": "SOURCE CODE",
+    "date": "Mar 07(11 Days ago)",
+    "readTime": 22,
+    "blogTitle": "programming statements that are created by a programmer with a text editor or a visual programming tool and then saved in a file",
+    "tag": "#codeGuru #devX"
+  },
+  {
+    "id": "64f8209d1ce46497a73529b8",
+    "blogCoverImg": "https://www.codingdojo.com/blog/wp-content/uploads/article-3467-thumbnail.png",
+    "blogImg": "https://cdn-icons-png.flaticon.com/512/2103/2103546.png",
+    "blogName": "ALGORITHM",
+    "date": "April 14(5 Days ago)",
+    "readTime": 65,
+    "blogTitle": "A programming algorithm is a procedure or formula used for solving a problem",
+    "tag": "#logic #control"
+  },
+  {
+    "id": "64f8209d23c47b0cedc1b03b",
+    "blogCoverImg": "https://www.cpapracticeadvisor.com/wp-content/uploads/sites/2/2022/07/30017/big_data_1_.5afaec15da23c.png",
+    "blogImg": "https://quanexus.com/wp-content/uploads/2018/02/data-icon.png",
+    "blogName": "DATA",
+    "date": "May 07(21 Days ago)",
+    "readTime": 59,
+    "blogTitle": "A data type represents a type of the data which you can process using your computer program",
+    "tag": "#mysql #mongodb"
+  },
+  {
+    "id": "64f8209d814df79936fd3490",
+    "blogCoverImg": "https://ipcdigital.com/wp-content/uploads/2022/07/Technology.jpg",
+    "blogImg": "https://cdn-icons-png.flaticon.com/512/2591/2591945.png",
+    "blogName": "TECHNOLOGY",
+    "date": "June 15(8 Days ago)",
+    "readTime": 12,
+    "blogTitle": "Technology is the most important in the world for the internet today",
+    "tag": "#learning #reading"
+  },
+  {
+    "id": "64f8209d80e08bcb62d91895",
+    "blogCoverImg": "https://5.imimg.com/data5/SELLER/Default/2021/12/GW/YE/RC/122972541/it-security-service-500x500.jpg",
+    "blogImg": "https://cdn-icons-png.flaticon.com/512/2913/2913133.png",
+    "blogName": "SECURITY",
+    "date": "July 10(29 Days ago)",
+    "readTime": 88,
+    "blogTitle": "Security is a very important to a person and social network",
+    "tag": "#finger #password"
+  }
+]

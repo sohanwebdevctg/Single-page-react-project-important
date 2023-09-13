@@ -1,0 +1,20 @@
+.foods-container{
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+  gap: 20px;
+}
+
+.card-container{
+  background-color: burlywood;
+  height: 15% !important;
+}
+
+.card-container .card-con{
+  display: flex;
+  justify-content: space-around;
+}
+
+hr{
+  background-color: black;
+  color: black;
+}

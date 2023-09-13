@@ -1,0 +1,92 @@
+[
+  {
+    "id": "64f5fab3a9b878d58d6758c3",
+    "balance": 200000,
+    "picture": "https://smartcdn.gprod.postmedia.digital/driving/wp-content/uploads/2022/04/Rolls-Royce-Black-Badge-Ghost-2022-33.jpg",
+    "color": "White",
+    "name": "Rolls Royce",
+    "company": "Roylls Royce",
+    "email": "rollsroyce@gmail.com",
+    "about": "This is more expensive car in the world"
+  },
+  {
+    "id": "64f5fab3a4e8bb34ec5a78f3",
+    "balance": 10000,
+    "picture": "https://cdn.motor1.com/images/mgl/pb0vov/s1/bentley-continental-gt-azure-inspired-by-1953-r-type-continental.jpg",
+    "color": "Pull",
+    "name": "Bentely",
+    "company": "Bentely",
+    "email": "bentely@gmail.com",
+    "about": "This is top class car in the world"
+  },
+  {
+    "id": "64f5fab3d19068e1308977dd",
+    "balance": 23455,
+    "picture": "https://cdn.arstechnica.net/wp-content/uploads/2023/05/2024-BMW-i5-preview-1-800x600.jpg",
+    "color": "Gray/Black",
+    "name": "BMW",
+    "company": "BMW",
+    "email": "bmw@gmail.com",
+    "about": "This is friendly car in the world"
+  },
+  {
+    "id": "64f5fab3f658f226308e413f",
+    "balance": 789834,
+    "picture": " https://media.autoweek.nl/m/3m0yoi6bayo3_800.jpg",
+    "color": "Deep Red/Black",
+    "name": "Corolla",
+    "company": "Toyota",
+    "email": "toyotacorolla@gmail.com",
+    "about": "This is user-friendly car in the world"
+  },
+  {
+    "id": "64f5fab39ee4a72c4e0ab1bf",
+    "balance": 84832,
+    "picture": "https://www.driveandreview.com/wp-content/uploads/2023/01/2021-ford-mustang-ecoboost-08.jpg",
+    "color": "Light Red",
+    "name": "Mustang",
+    "company": "Ford",
+    "email": "fordmustang@gmail.com",
+    "about": "This is super car in the world"
+  },
+  {
+    "id": "64f5fab37c84fc2d1fa19bd7",
+    "balance": 38798,
+    "picture": "https://images.carexpert.com.au/resize/3000/-/app/uploads/2020/12/Audi-RS7-137.jpeg",
+    "color": "Gray",
+    "name": "Audi-RS7-137",
+    "company": "Audi",
+    "email": "audi@gmail.com",
+    "about": "This is middle class car in the world"
+  },
+  {
+    "id": "64f5fab39aed9344a46dbf9c",
+    "balance": 15027,
+    "picture": "https://carsguide-res.cloudinary.com/image/upload/f_auto%2Cfl_lossy%2Cq_auto%2Ct_default/v1/editorial/Honda-Civic-2022-1600-01.jpg",
+    "color": "Deep Blue",
+    "name": "Civic-2022-1600",
+    "company": "Honda",
+    "email": "hondacivic2022@gmail.com",
+    "about": "This is comfortable car in the world"
+  },
+  {
+    "id": "64f5fab37aaf2c1b0bffa19a",
+    "balance": 847899,
+    "picture": "https://images.drive.com.au/caradvice/image/private/c_fill,f_auto,g_auto,h_1080,q_auto:eco,w_1920/v1/d028320ff307553b673e89eedaecf595",
+    "color": "green",
+    "name": "Sonata",
+    "company": "Hyundai",
+    "email": "hyundai@gmail.com",
+    "about": "this is favorite car in new generation"
+  },
+  {
+    "id": "64f5fab31f6c8d6a4020290d",
+    "balance": 48893,
+    "picture": "https://images.autotrader.com/hn/c/ed3051f9e58943599c6e52c917c2b336.jpg",
+    "color": "Light Red",
+    "name": "58-C",
+    "company": "Volkswagen",
+    "email": "volkswagen@gmail.com",
+    "about": "this is europeer in new generation"
+  }
+]

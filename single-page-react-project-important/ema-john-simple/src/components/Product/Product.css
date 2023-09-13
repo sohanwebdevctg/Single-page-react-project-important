@@ -1,0 +1,33 @@
+.product{
+  width: 100%;
+  background-color: burlywood;
+  position: relative;
+}
+
+.product .product-container{
+  padding: 10px;
+  margin-bottom:30px ;
+}
+
+.product img{
+  width: 100%;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+}
+
+.product .btn{
+  width: 100%;
+  color: black;
+  background-color: orange;
+  padding: 7px 0;
+  position: absolute;
+  bottom: 0;
+}
+.product .btn:hover{
+  width: 100%;
+  color: white;
+  background-color: black;
+}

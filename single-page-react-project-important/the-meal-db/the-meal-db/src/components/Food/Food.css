@@ -1,0 +1,20 @@
+.food-container{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 25px;
+}
+.food-container img{
+  width: 100%;
+}
+
+.food-container .food-item{
+  background-color: burlywood;
+  padding: 15px;
+}
+
+button{
+  background-color: black;
+  color: white;
+  border: 0;
+  padding: 8px 14px;
+}
